@@ -1,0 +1,1121 @@
+Total Loss for Epoch 1 = 191.514
+Total Loss for Epoch 2 = 121.539
+Total Loss for Epoch 3 = 100.765
+Total Loss for Epoch 4 = 97.7763
+Total Loss for Epoch 5 = 85.2029
+Total Loss for Epoch 6 = 84.0926
+Total Loss for Epoch 7 = 83.5185
+Total Loss for Epoch 8 = 78.02
+Total Loss for Epoch 9 = 69.8206
+Total Loss for Epoch 10 = 69.9937
+Total Loss for Epoch 11 = 65.0662
+Total Loss for Epoch 12 = 79.9238
+Total Loss for Epoch 13 = 53.5757
+Total Loss for Epoch 14 = 71.1419
+Total Loss for Epoch 15 = 67.6175
+Total Loss for Epoch 16 = 55.0396
+Total Loss for Epoch 17 = 50.6375
+Total Loss for Epoch 18 = 54.2307
+Total Loss for Epoch 19 = 60.0733
+Total Loss for Epoch 20 = 42.6572
+Total Loss for Epoch 21 = 39.4777
+Total Loss for Epoch 22 = 60.4845
+Total Loss for Epoch 23 = 46.0307
+Total Loss for Epoch 24 = 51.3512
+Total Loss for Epoch 25 = 50.3561
+Total Loss for Epoch 26 = 40.2465
+Total Loss for Epoch 27 = 37.9217
+Total Loss for Epoch 28 = 52.9481
+Total Loss for Epoch 29 = 43.5729
+Total Loss for Epoch 30 = 42.6069
+Total Loss for Epoch 31 = 49.5944
+Total Loss for Epoch 32 = 49.8377
+Total Loss for Epoch 33 = 54.8872
+Total Loss for Epoch 34 = 84.5945
+Total Loss for Epoch 35 = 54.1324
+Total Loss for Epoch 36 = 33.2397
+Total Loss for Epoch 37 = 48.2937
+Total Loss for Epoch 38 = 36.0532
+Total Loss for Epoch 39 = 38.3705
+Total Loss for Epoch 40 = 51.4545
+Total Loss for Epoch 41 = 37.7677
+Total Loss for Epoch 42 = 60.4335
+Total Loss for Epoch 43 = 36.2516
+Total Loss for Epoch 44 = 104.753
+Total Loss for Epoch 45 = 47.0536
+Total Loss for Epoch 46 = 57.9905
+Total Loss for Epoch 47 = 50.4392
+Total Loss for Epoch 48 = 47.1619
+Total Loss for Epoch 49 = 78.2803
+Total Loss for Epoch 50 = 56.1729
+Total Loss for Epoch 51 = 69.3292
+Total Loss for Epoch 52 = 49.9291
+Total Loss for Epoch 53 = 77.7059
+Total Loss for Epoch 54 = 44.2016
+Total Loss for Epoch 55 = 40.0081
+Total Loss for Epoch 56 = 41.4923
+Total Loss for Epoch 57 = 33.059
+Total Loss for Epoch 58 = 40.9105
+Total Loss for Epoch 59 = 31.8261
+Total Loss for Epoch 60 = 28.0048
+Total Loss for Epoch 61 = 39.1016
+Total Loss for Epoch 62 = 46.9315
+Total Loss for Epoch 63 = 57.7701
+Total Loss for Epoch 64 = 68.4111
+Total Loss for Epoch 65 = 42.8866
+Total Loss for Epoch 66 = 38.8
+Total Loss for Epoch 67 = 61.4813
+Total Loss for Epoch 68 = 35.1817
+Total Loss for Epoch 69 = 46.3258
+Total Loss for Epoch 70 = 38.2021
+Total Loss for Epoch 71 = 36.2624
+Total Loss for Epoch 72 = 47.8481
+Total Loss for Epoch 73 = 38.3232
+Total Loss for Epoch 74 = 26.6586
+Total Loss for Epoch 75 = 40.5629
+Total Loss for Epoch 76 = 33.7903
+Total Loss for Epoch 77 = 53.9517
+Total Loss for Epoch 78 = 27.8202
+Total Loss for Epoch 79 = 26.5881
+Total Loss for Epoch 80 = 27.3522
+Total Loss for Epoch 81 = 27.2843
+Total Loss for Epoch 82 = 31.4332
+Total Loss for Epoch 83 = 59.0021
+Total Loss for Epoch 84 = 39.2516
+Total Loss for Epoch 85 = 40.961
+Total Loss for Epoch 86 = 42.4985
+Total Loss for Epoch 87 = 34.7836
+Total Loss for Epoch 88 = 40.9138
+Total Loss for Epoch 89 = 69.2855
+Total Loss for Epoch 90 = 57.9476
+Total Loss for Epoch 91 = 44.7086
+Total Loss for Epoch 92 = 62.3184
+Total Loss for Epoch 93 = 48.8621
+Total Loss for Epoch 94 = 36.726
+Total Loss for Epoch 95 = 27.8247
+Total Loss for Epoch 96 = 26.8505
+Total Loss for Epoch 97 = 27.514
+Total Loss for Epoch 98 = 41.7835
+Total Loss for Epoch 99 = 29.029
+Total Loss for Epoch 100 = 27.176
+Total Loss for Epoch 101 = 26.778
+Total Loss for Epoch 102 = 45.7399
+Total Loss for Epoch 103 = 48.1152
+Total Loss for Epoch 104 = 22.5906
+Total Loss for Epoch 105 = 16.1887
+Total Loss for Epoch 106 = 30.9998
+Total Loss for Epoch 107 = 17.9041
+Total Loss for Epoch 108 = 20.4624
+Total Loss for Epoch 109 = 28.8219
+Total Loss for Epoch 110 = 17.1062
+Total Loss for Epoch 111 = 17.0005
+Total Loss for Epoch 112 = 20.0411
+Total Loss for Epoch 113 = 29.8463
+Total Loss for Epoch 114 = 25.9181
+Total Loss for Epoch 115 = 28.6601
+Total Loss for Epoch 116 = 23.8964
+Total Loss for Epoch 117 = 24.6612
+Total Loss for Epoch 118 = 32.873
+Total Loss for Epoch 119 = 34.991
+Total Loss for Epoch 120 = 16.8626
+Total Loss for Epoch 121 = 17.4502
+Total Loss for Epoch 122 = 17.8772
+Total Loss for Epoch 123 = 12.5048
+Total Loss for Epoch 124 = 17.3957
+Total Loss for Epoch 125 = 18.3421
+Total Loss for Epoch 126 = 30.1366
+Total Loss for Epoch 127 = 54.9622
+Total Loss for Epoch 128 = 32.0418
+Total Loss for Epoch 129 = 38.4767
+Total Loss for Epoch 130 = 26.0645
+Total Loss for Epoch 131 = 57.2809
+Total Loss for Epoch 132 = 30.5976
+Total Loss for Epoch 133 = 32.3205
+Total Loss for Epoch 134 = 25.4073
+Total Loss for Epoch 135 = 19.7553
+Total Loss for Epoch 136 = 17.7151
+Total Loss for Epoch 137 = 18.4524
+Total Loss for Epoch 138 = 17.7295
+Total Loss for Epoch 139 = 17.5654
+Total Loss for Epoch 140 = 20.1241
+Total Loss for Epoch 141 = 20.2757
+Total Loss for Epoch 142 = 26.9714
+Total Loss for Epoch 143 = 17.1645
+Total Loss for Epoch 144 = 20.4412
+Total Loss for Epoch 145 = 19.7366
+Total Loss for Epoch 146 = 20.5998
+Total Loss for Epoch 147 = 20.539
+Total Loss for Epoch 148 = 17.4898
+Total Loss for Epoch 149 = 17.2427
+Total Loss for Epoch 150 = 17.1199
+Total Loss for Epoch 151 = 27.1347
+Total Loss for Epoch 152 = 17.6663
+Total Loss for Epoch 153 = 20.4416
+Total Loss for Epoch 154 = 14.4543
+Total Loss for Epoch 155 = 32.6128
+Total Loss for Epoch 156 = 26.3772
+Total Loss for Epoch 157 = 16.796
+Total Loss for Epoch 158 = 17.0599
+Total Loss for Epoch 159 = 16.0839
+Total Loss for Epoch 160 = 19.1255
+Total Loss for Epoch 161 = 17.0281
+Total Loss for Epoch 162 = 22.8697
+Total Loss for Epoch 163 = 16.8853
+Total Loss for Epoch 164 = 16.0249
+Total Loss for Epoch 165 = 14.3307
+Total Loss for Epoch 166 = 20.0071
+Total Loss for Epoch 167 = 18.7131
+Total Loss for Epoch 168 = 26.1734
+Total Loss for Epoch 169 = 27.6183
+Total Loss for Epoch 170 = 18.5678
+Total Loss for Epoch 171 = 15.0756
+Total Loss for Epoch 172 = 23.5267
+Total Loss for Epoch 173 = 19.3415
+Total Loss for Epoch 174 = 26.6388
+Total Loss for Epoch 175 = 15.9472
+Total Loss for Epoch 176 = 52.3987
+Total Loss for Epoch 177 = 139.507
+Total Loss for Epoch 178 = 140.933
+Total Loss for Epoch 179 = 155.086
+Total Loss for Epoch 180 = 138.297
+Total Loss for Epoch 181 = 122.843
+Total Loss for Epoch 182 = 75.8952
+Total Loss for Epoch 183 = 115.54
+Total Loss for Epoch 184 = 104.689
+Total Loss for Epoch 185 = 82.9049
+Total Loss for Epoch 186 = 62.6966
+Total Loss for Epoch 187 = 99.5361
+Total Loss for Epoch 188 = 84.4125
+Total Loss for Epoch 189 = 84.3934
+Total Loss for Epoch 190 = 75.1913
+Total Loss for Epoch 191 = 79.7911
+Total Loss for Epoch 192 = 98.2644
+Total Loss for Epoch 193 = 71.6851
+Total Loss for Epoch 194 = 58.9482
+Total Loss for Epoch 195 = 75.7629
+Total Loss for Epoch 196 = 57.7043
+Total Loss for Epoch 197 = 38.574
+Total Loss for Epoch 198 = 79.4499
+Total Loss for Epoch 199 = 109.678
+Total Loss for Epoch 200 = 181.94
+Total Loss for Epoch 201 = 105.113
+Total Loss for Epoch 202 = 117.26
+Total Loss for Epoch 203 = 82.9582
+Total Loss for Epoch 204 = 80.6427
+Total Loss for Epoch 205 = 91.3081
+Total Loss for Epoch 206 = 88.1256
+Total Loss for Epoch 207 = 84.9689
+Total Loss for Epoch 208 = 91.0843
+Total Loss for Epoch 209 = 95.3467
+Total Loss for Epoch 210 = 96.3235
+Total Loss for Epoch 211 = 119.784
+Total Loss for Epoch 212 = 95.273
+Total Loss for Epoch 213 = 83.6614
+Total Loss for Epoch 214 = 83.5216
+Total Loss for Epoch 215 = 92.9221
+Total Loss for Epoch 216 = 96.3241
+Total Loss for Epoch 217 = 78.9183
+Total Loss for Epoch 218 = 83.2637
+Total Loss for Epoch 219 = 56.954
+Total Loss for Epoch 220 = 63.0693
+Total Loss for Epoch 221 = 64.1677
+Total Loss for Epoch 222 = 81.5352
+Total Loss for Epoch 223 = 53.2844
+Total Loss for Epoch 224 = 61.7969
+Total Loss for Epoch 225 = 78.3461
+Total Loss for Epoch 226 = 90.9053
+Total Loss for Epoch 227 = 72.9549
+Total Loss for Epoch 228 = 53.101
+Total Loss for Epoch 229 = 64.9838
+Total Loss for Epoch 230 = 55.8846
+Total Loss for Epoch 231 = 53.9341
+Total Loss for Epoch 232 = 56.5662
+Total Loss for Epoch 233 = 42.5498
+Total Loss for Epoch 234 = 57.7453
+Total Loss for Epoch 235 = 52.3774
+Total Loss for Epoch 236 = 51.2632
+Total Loss for Epoch 237 = 45.9573
+Total Loss for Epoch 238 = 74.2571
+Total Loss for Epoch 239 = 48.2155
+Total Loss for Epoch 240 = 50.5991
+Total Loss for Epoch 241 = 50.2242
+Total Loss for Epoch 242 = 104.989
+Total Loss for Epoch 243 = 58.2534
+Total Loss for Epoch 244 = 70.2414
+Total Loss for Epoch 245 = 64.7116
+Total Loss for Epoch 246 = 61.259
+Total Loss for Epoch 247 = 57.4009
+Total Loss for Epoch 248 = 59.1209
+Total Loss for Epoch 249 = 53.2246
+Total Loss for Epoch 250 = 80.6267
+Total Loss for Epoch 251 = 70.9741
+Total Loss for Epoch 252 = 57.8776
+Total Loss for Epoch 253 = 52.1306
+Total Loss for Epoch 254 = 58.4828
+Total Loss for Epoch 255 = 47.7668
+Total Loss for Epoch 256 = 89.8631
+Total Loss for Epoch 257 = 90.3032
+Total Loss for Epoch 258 = 97.3434
+Total Loss for Epoch 259 = 87.0924
+Total Loss for Epoch 260 = 90.4446
+Total Loss for Epoch 261 = 61.1371
+Total Loss for Epoch 262 = 56.7058
+Total Loss for Epoch 263 = 58.9422
+Total Loss for Epoch 264 = 66.6765
+Total Loss for Epoch 265 = 79.5305
+Total Loss for Epoch 266 = 115.751
+Total Loss for Epoch 267 = 48.1368
+Total Loss for Epoch 268 = 71.557
+Total Loss for Epoch 269 = 74.6576
+Total Loss for Epoch 270 = 94.0821
+Total Loss for Epoch 271 = 60.2278
+Total Loss for Epoch 272 = 34.4436
+Total Loss for Epoch 273 = 41.1095
+Total Loss for Epoch 274 = 82.7516
+Total Loss for Epoch 275 = 76.5258
+Total Loss for Epoch 276 = 44.1272
+Total Loss for Epoch 277 = 43.0599
+Total Loss for Epoch 278 = 44.9794
+Total Loss for Epoch 279 = 117.839
+Total Loss for Epoch 280 = 96.7686
+Total Loss for Epoch 281 = 122.943
+Total Loss for Epoch 282 = 73.2584
+Total Loss for Epoch 283 = 113.974
+Total Loss for Epoch 284 = 53.5631
+Total Loss for Epoch 285 = 43.1397
+Total Loss for Epoch 286 = 60.342
+Total Loss for Epoch 287 = 72.9233
+Total Loss for Epoch 288 = 48.7734
+Total Loss for Epoch 289 = 41.9926
+Total Loss for Epoch 290 = 52.6785
+Total Loss for Epoch 291 = 88.0761
+Total Loss for Epoch 292 = 79.1847
+Total Loss for Epoch 293 = 73.1156
+Total Loss for Epoch 294 = 58.3528
+Total Loss for Epoch 295 = 79.1395
+Total Loss for Epoch 296 = 50.5143
+Total Loss for Epoch 297 = 73.7674
+Total Loss for Epoch 298 = 41.4005
+Total Loss for Epoch 299 = 41.2759
+Total Loss for Epoch 300 = 44.2087
+Total Loss for Epoch 301 = 67.5405
+Total Loss for Epoch 302 = 57.2473
+Total Loss for Epoch 303 = 37.763
+Total Loss for Epoch 304 = 66.7349
+Total Loss for Epoch 305 = 72.1453
+Total Loss for Epoch 306 = 38.0689
+Total Loss for Epoch 307 = 51.5422
+Total Loss for Epoch 308 = 50.8365
+Total Loss for Epoch 309 = 46.9047
+Total Loss for Epoch 310 = 41.9732
+Total Loss for Epoch 311 = 90.5564
+Total Loss for Epoch 312 = 79.2042
+Total Loss for Epoch 313 = 79.182
+Total Loss for Epoch 314 = 85.4069
+Total Loss for Epoch 315 = 80.8698
+Total Loss for Epoch 316 = 80.8016
+Total Loss for Epoch 317 = 88.2072
+Total Loss for Epoch 318 = 80.0436
+Total Loss for Epoch 319 = 53.85
+Total Loss for Epoch 320 = 55.8863
+Total Loss for Epoch 321 = 59.5142
+Total Loss for Epoch 322 = 37.7319
+Total Loss for Epoch 323 = 66.5366
+Total Loss for Epoch 324 = 51.4086
+Total Loss for Epoch 325 = 46.4824
+Total Loss for Epoch 326 = 67.7145
+Total Loss for Epoch 327 = 45.8528
+Total Loss for Epoch 328 = 45.8391
+Total Loss for Epoch 329 = 51.5365
+Total Loss for Epoch 330 = 64.9447
+Total Loss for Epoch 331 = 47.0916
+Total Loss for Epoch 332 = 42.6982
+Total Loss for Epoch 333 = 47.4354
+Total Loss for Epoch 334 = 58.305
+Total Loss for Epoch 335 = 44.9606
+Total Loss for Epoch 336 = 37.9249
+Total Loss for Epoch 337 = 33.6388
+Total Loss for Epoch 338 = 34.269
+Total Loss for Epoch 339 = 34.0684
+Total Loss for Epoch 340 = 43.1285
+Total Loss for Epoch 341 = 38.4103
+Total Loss for Epoch 342 = 34.9796
+Total Loss for Epoch 343 = 34.9308
+Total Loss for Epoch 344 = 34.8128
+Total Loss for Epoch 345 = 33.5568
+Total Loss for Epoch 346 = 72.5291
+Total Loss for Epoch 347 = 50.3464
+Total Loss for Epoch 348 = 41.1822
+Total Loss for Epoch 349 = 41.4001
+Total Loss for Epoch 350 = 38.0929
+Total Loss for Epoch 351 = 46.8651
+Total Loss for Epoch 352 = 36.881
+Total Loss for Epoch 353 = 35.4064
+Total Loss for Epoch 354 = 35.1338
+Total Loss for Epoch 355 = 34.8762
+Total Loss for Epoch 356 = 34.8264
+Total Loss for Epoch 357 = 34.7916
+Total Loss for Epoch 358 = 34.7182
+Total Loss for Epoch 359 = 34.4662
+Total Loss for Epoch 360 = 30.0462
+Total Loss for Epoch 361 = 42.7234
+Total Loss for Epoch 362 = 70.244
+Total Loss for Epoch 363 = 73.138
+Total Loss for Epoch 364 = 60.2048
+Total Loss for Epoch 365 = 73.2823
+Total Loss for Epoch 366 = 57.6092
+Total Loss for Epoch 367 = 53.5471
+Total Loss for Epoch 368 = 61.1152
+Total Loss for Epoch 369 = 94.1019
+Total Loss for Epoch 370 = 72.8516
+Total Loss for Epoch 371 = 73.741
+Total Loss for Epoch 372 = 73.7463
+Total Loss for Epoch 373 = 73.7469
+Total Loss for Epoch 374 = 73.7412
+Total Loss for Epoch 375 = 73.7593
+Total Loss for Epoch 376 = 73.7421
+Total Loss for Epoch 377 = 73.7766
+Total Loss for Epoch 378 = 73.7411
+Total Loss for Epoch 379 = 73.7084
+Total Loss for Epoch 380 = 73.5876
+Total Loss for Epoch 381 = 68.6221
+Total Loss for Epoch 382 = 50.6391
+Total Loss for Epoch 383 = 50.2135
+Total Loss for Epoch 384 = 36.697
+Total Loss for Epoch 385 = 63.847
+Total Loss for Epoch 386 = 36.5659
+Total Loss for Epoch 387 = 70.2775
+Total Loss for Epoch 388 = 50.0105
+Total Loss for Epoch 389 = 43.8641
+Total Loss for Epoch 390 = 41.9013
+Total Loss for Epoch 391 = 41.8673
+Total Loss for Epoch 392 = 41.8307
+Total Loss for Epoch 393 = 41.7429
+Total Loss for Epoch 394 = 35.5795
+Total Loss for Epoch 395 = 47.5997
+Total Loss for Epoch 396 = 40.2779
+Total Loss for Epoch 397 = 39.5995
+Total Loss for Epoch 398 = 36.389
+Total Loss for Epoch 399 = 37.8438
+Total Loss for Epoch 400 = 35.2803
+Total Loss for Epoch 401 = 37.5793
+Total Loss for Epoch 402 = 41.0829
+Total Loss for Epoch 403 = 35.386
+Total Loss for Epoch 404 = 35.4682
+Total Loss for Epoch 405 = 36.0889
+Total Loss for Epoch 406 = 32.0056
+Total Loss for Epoch 407 = 39.895
+Total Loss for Epoch 408 = 28.7406
+Total Loss for Epoch 409 = 36.7445
+Total Loss for Epoch 410 = 32.1693
+Total Loss for Epoch 411 = 26.6663
+Total Loss for Epoch 412 = 99.392
+Total Loss for Epoch 413 = 39.2787
+Total Loss for Epoch 414 = 33.2925
+Total Loss for Epoch 415 = 51.4547
+Total Loss for Epoch 416 = 21.3011
+Total Loss for Epoch 417 = 40.5319
+Total Loss for Epoch 418 = 45.1744
+Total Loss for Epoch 419 = 27.3668
+Total Loss for Epoch 420 = 35.3855
+Total Loss for Epoch 421 = 32.1467
+Total Loss for Epoch 422 = 27.8991
+Total Loss for Epoch 423 = 34.2786
+Total Loss for Epoch 424 = 30.7932
+Total Loss for Epoch 425 = 32.0559
+Total Loss for Epoch 426 = 33.2791
+Total Loss for Epoch 427 = 38.5873
+Total Loss for Epoch 428 = 37.778
+Total Loss for Epoch 429 = 82.0106
+Total Loss for Epoch 430 = 50.0657
+Total Loss for Epoch 431 = 39.517
+Total Loss for Epoch 432 = 36.2494
+Total Loss for Epoch 433 = 46.0564
+Total Loss for Epoch 434 = 21.9438
+Total Loss for Epoch 435 = 31.5139
+Total Loss for Epoch 436 = 46.9749
+Total Loss for Epoch 437 = 40.2619
+Total Loss for Epoch 438 = 35.0818
+Total Loss for Epoch 439 = 25.9972
+Total Loss for Epoch 440 = 62.3318
+Total Loss for Epoch 441 = 27.4338
+Total Loss for Epoch 442 = 36.1079
+Total Loss for Epoch 443 = 30.06
+Total Loss for Epoch 444 = 53.2734
+Total Loss for Epoch 445 = 21.6463
+Total Loss for Epoch 446 = 53.3342
+Total Loss for Epoch 447 = 29.6656
+Total Loss for Epoch 448 = 27.0197
+Total Loss for Epoch 449 = 30.2572
+Total Loss for Epoch 450 = 36.6297
+Total Loss for Epoch 451 = 38.7923
+Total Loss for Epoch 452 = 33.2507
+Total Loss for Epoch 453 = 41.653
+Total Loss for Epoch 454 = 77.349
+Total Loss for Epoch 455 = 39.67
+Total Loss for Epoch 456 = 37.5763
+Total Loss for Epoch 457 = 32.0075
+Total Loss for Epoch 458 = 27.4977
+Total Loss for Epoch 459 = 29.6154
+Total Loss for Epoch 460 = 30.7066
+Total Loss for Epoch 461 = 41.414
+Total Loss for Epoch 462 = 34.7637
+Total Loss for Epoch 463 = 26.8783
+Total Loss for Epoch 464 = 33.7805
+Total Loss for Epoch 465 = 35.0079
+Total Loss for Epoch 466 = 29.1281
+Total Loss for Epoch 467 = 34.3653
+Total Loss for Epoch 468 = 31.7948
+Total Loss for Epoch 469 = 32.4123
+Total Loss for Epoch 470 = 30.2079
+Total Loss for Epoch 471 = 23.5547
+Total Loss for Epoch 472 = 39.6384
+Total Loss for Epoch 473 = 40.7517
+Total Loss for Epoch 474 = 27.6165
+Total Loss for Epoch 475 = 31.6018
+Total Loss for Epoch 476 = 29.2815
+Total Loss for Epoch 477 = 30.8179
+Total Loss for Epoch 478 = 45.3489
+Total Loss for Epoch 479 = 29.6978
+Total Loss for Epoch 480 = 25.1576
+Total Loss for Epoch 481 = 48.346
+Total Loss for Epoch 482 = 27.4707
+Total Loss for Epoch 483 = 27.8833
+Total Loss for Epoch 484 = 22.5375
+Total Loss for Epoch 485 = 38.6297
+Total Loss for Epoch 486 = 31.3588
+Total Loss for Epoch 487 = 38.1811
+Total Loss for Epoch 488 = 30.8692
+Total Loss for Epoch 489 = 32.1613
+Total Loss for Epoch 490 = 58.2557
+Total Loss for Epoch 491 = 63.6999
+Total Loss for Epoch 492 = 47.7326
+Total Loss for Epoch 493 = 44.7693
+Total Loss for Epoch 494 = 40.2284
+Total Loss for Epoch 495 = 30.3964
+Total Loss for Epoch 496 = 29.7558
+Total Loss for Epoch 497 = 27.3325
+Total Loss for Epoch 498 = 55.961
+Total Loss for Epoch 499 = 55.8894
+Total Loss for Epoch 500 = 43.9168
+Total Loss for Epoch 501 = 46.1864
+Total Loss for Epoch 502 = 36.0039
+Total Loss for Epoch 503 = 36.0385
+Total Loss for Epoch 504 = 35.9462
+Total Loss for Epoch 505 = 35.7992
+Total Loss for Epoch 506 = 35.043
+Total Loss for Epoch 507 = 20.1981
+Total Loss for Epoch 508 = 42.1315
+Total Loss for Epoch 509 = 16.4881
+Total Loss for Epoch 510 = 62.0659
+Total Loss for Epoch 511 = 30.1057
+Total Loss for Epoch 512 = 28.1963
+Total Loss for Epoch 513 = 32.2046
+Total Loss for Epoch 514 = 32.6632
+Total Loss for Epoch 515 = 46.0014
+Total Loss for Epoch 516 = 30.1529
+Total Loss for Epoch 517 = 33.2388
+Total Loss for Epoch 518 = 35.7895
+Total Loss for Epoch 519 = 30.3237
+Total Loss for Epoch 520 = 34.9041
+Total Loss for Epoch 521 = 27.3286
+Total Loss for Epoch 522 = 41.7086
+Total Loss for Epoch 523 = 23.4685
+Total Loss for Epoch 524 = 26.5119
+Total Loss for Epoch 525 = 42.2723
+Total Loss for Epoch 526 = 71.8981
+Total Loss for Epoch 527 = 34.0521
+Total Loss for Epoch 528 = 27.1353
+Total Loss for Epoch 529 = 25.0858
+Total Loss for Epoch 530 = 27.4722
+Total Loss for Epoch 531 = 42.1361
+Total Loss for Epoch 532 = 74.4493
+Total Loss for Epoch 533 = 45.6115
+Total Loss for Epoch 534 = 43.887
+Total Loss for Epoch 535 = 30.3284
+Total Loss for Epoch 536 = 22.0701
+Total Loss for Epoch 537 = 43.0229
+Total Loss for Epoch 538 = 35.0051
+Total Loss for Epoch 539 = 86.817
+Total Loss for Epoch 540 = 52.8922
+Total Loss for Epoch 541 = 66.5117
+Total Loss for Epoch 542 = 71.1177
+Total Loss for Epoch 543 = 32.5312
+Total Loss for Epoch 544 = 24.7958
+Total Loss for Epoch 545 = 27.3103
+Total Loss for Epoch 546 = 29.1767
+Total Loss for Epoch 547 = 25.4727
+Total Loss for Epoch 548 = 26.3113
+Total Loss for Epoch 549 = 26.8931
+Total Loss for Epoch 550 = 27.2049
+Total Loss for Epoch 551 = 27.4389
+Total Loss for Epoch 552 = 27.5908
+Total Loss for Epoch 553 = 27.6937
+Total Loss for Epoch 554 = 27.7646
+Total Loss for Epoch 555 = 27.8141
+Total Loss for Epoch 556 = 27.8478
+Total Loss for Epoch 557 = 27.8698
+Total Loss for Epoch 558 = 27.8835
+Total Loss for Epoch 559 = 27.891
+Total Loss for Epoch 560 = 27.8939
+Total Loss for Epoch 561 = 27.8932
+Total Loss for Epoch 562 = 27.8896
+Total Loss for Epoch 563 = 27.8836
+Total Loss for Epoch 564 = 27.8754
+Total Loss for Epoch 565 = 27.8654
+Total Loss for Epoch 566 = 27.8536
+Total Loss for Epoch 567 = 27.8401
+Total Loss for Epoch 568 = 27.825
+Total Loss for Epoch 569 = 27.8084
+Total Loss for Epoch 570 = 27.7903
+Total Loss for Epoch 571 = 27.7706
+Total Loss for Epoch 572 = 27.7502
+Total Loss for Epoch 573 = 27.7263
+Total Loss for Epoch 574 = 27.7075
+Total Loss for Epoch 575 = 27.671
+Total Loss for Epoch 576 = 27.6701
+Total Loss for Epoch 577 = 27.6051
+Total Loss for Epoch 578 = 27.7404
+Total Loss for Epoch 579 = 27.5534
+Total Loss for Epoch 580 = 31.3293
+Total Loss for Epoch 581 = 55.9435
+Total Loss for Epoch 582 = 31.17
+Total Loss for Epoch 583 = 46.8809
+Total Loss for Epoch 584 = 29.916
+Total Loss for Epoch 585 = 20.6406
+Total Loss for Epoch 586 = 35.5582
+Total Loss for Epoch 587 = 26.4935
+Total Loss for Epoch 588 = 22.3992
+Total Loss for Epoch 589 = 22.256
+Total Loss for Epoch 590 = 22.2759
+Total Loss for Epoch 591 = 22.2536
+Total Loss for Epoch 592 = 22.2227
+Total Loss for Epoch 593 = 22.193
+Total Loss for Epoch 594 = 22.1665
+Total Loss for Epoch 595 = 22.1433
+Total Loss for Epoch 596 = 22.123
+Total Loss for Epoch 597 = 22.1049
+Total Loss for Epoch 598 = 22.0887
+Total Loss for Epoch 599 = 22.0739
+Total Loss for Epoch 600 = 22.0603
+Total Loss for Epoch 601 = 22.0477
+Total Loss for Epoch 602 = 22.036
+Total Loss for Epoch 603 = 22.025
+Total Loss for Epoch 604 = 22.0147
+Total Loss for Epoch 605 = 22.005
+Total Loss for Epoch 606 = 21.9957
+Total Loss for Epoch 607 = 21.987
+Total Loss for Epoch 608 = 21.9787
+Total Loss for Epoch 609 = 21.9708
+Total Loss for Epoch 610 = 21.9632
+Total Loss for Epoch 611 = 21.956
+Total Loss for Epoch 612 = 21.949
+Total Loss for Epoch 613 = 21.9423
+Total Loss for Epoch 614 = 21.9359
+Total Loss for Epoch 615 = 21.9297
+Total Loss for Epoch 616 = 21.9238
+Total Loss for Epoch 617 = 21.918
+Total Loss for Epoch 618 = 21.9124
+Total Loss for Epoch 619 = 21.907
+Total Loss for Epoch 620 = 21.9018
+Total Loss for Epoch 621 = 21.8967
+Total Loss for Epoch 622 = 21.8918
+Total Loss for Epoch 623 = 21.887
+Total Loss for Epoch 624 = 21.8824
+Total Loss for Epoch 625 = 21.8779
+Total Loss for Epoch 626 = 21.8736
+Total Loss for Epoch 627 = 21.8693
+Total Loss for Epoch 628 = 21.8652
+Total Loss for Epoch 629 = 21.8612
+Total Loss for Epoch 630 = 21.8573
+Total Loss for Epoch 631 = 21.8535
+Total Loss for Epoch 632 = 21.8498
+Total Loss for Epoch 633 = 21.8461
+Total Loss for Epoch 634 = 21.8426
+Total Loss for Epoch 635 = 21.8392
+Total Loss for Epoch 636 = 21.8359
+Total Loss for Epoch 637 = 21.8326
+Total Loss for Epoch 638 = 21.8294
+Total Loss for Epoch 639 = 21.8263
+Total Loss for Epoch 640 = 21.8233
+Total Loss for Epoch 641 = 21.8203
+Total Loss for Epoch 642 = 21.8175
+Total Loss for Epoch 643 = 21.8146
+Total Loss for Epoch 644 = 21.8119
+Total Loss for Epoch 645 = 21.8092
+Total Loss for Epoch 646 = 21.8065
+Total Loss for Epoch 647 = 21.804
+Total Loss for Epoch 648 = 21.8014
+Total Loss for Epoch 649 = 21.7989
+Total Loss for Epoch 650 = 21.7965
+Total Loss for Epoch 651 = 21.7941
+Total Loss for Epoch 652 = 21.7918
+Total Loss for Epoch 653 = 21.7895
+Total Loss for Epoch 654 = 21.7872
+Total Loss for Epoch 655 = 21.785
+Total Loss for Epoch 656 = 21.7829
+Total Loss for Epoch 657 = 21.7807
+Total Loss for Epoch 658 = 21.7786
+Total Loss for Epoch 659 = 21.7765
+Total Loss for Epoch 660 = 21.7745
+Total Loss for Epoch 661 = 21.7724
+Total Loss for Epoch 662 = 21.7704
+Total Loss for Epoch 663 = 21.7685
+Total Loss for Epoch 664 = 21.7665
+Total Loss for Epoch 665 = 21.7646
+Total Loss for Epoch 666 = 21.7626
+Total Loss for Epoch 667 = 21.7607
+Total Loss for Epoch 668 = 21.7588
+Total Loss for Epoch 669 = 21.7569
+Total Loss for Epoch 670 = 21.755
+Total Loss for Epoch 671 = 21.7531
+Total Loss for Epoch 672 = 21.7512
+Total Loss for Epoch 673 = 21.7493
+Total Loss for Epoch 674 = 21.7473
+Total Loss for Epoch 675 = 21.7454
+Total Loss for Epoch 676 = 21.7434
+Total Loss for Epoch 677 = 21.7414
+Total Loss for Epoch 678 = 21.7394
+Total Loss for Epoch 679 = 21.7373
+Total Loss for Epoch 680 = 21.7351
+Total Loss for Epoch 681 = 21.7329
+Total Loss for Epoch 682 = 21.7307
+Total Loss for Epoch 683 = 21.7283
+Total Loss for Epoch 684 = 21.7258
+Total Loss for Epoch 685 = 21.7232
+Total Loss for Epoch 686 = 21.7204
+Total Loss for Epoch 687 = 21.7175
+Total Loss for Epoch 688 = 21.7144
+Total Loss for Epoch 689 = 21.711
+Total Loss for Epoch 690 = 21.7074
+Total Loss for Epoch 691 = 21.7035
+Total Loss for Epoch 692 = 21.6993
+Total Loss for Epoch 693 = 21.6947
+Total Loss for Epoch 694 = 21.6897
+Total Loss for Epoch 695 = 21.6843
+Total Loss for Epoch 696 = 21.6785
+Total Loss for Epoch 697 = 21.6726
+Total Loss for Epoch 698 = 21.6665
+Total Loss for Epoch 699 = 21.6605
+Total Loss for Epoch 700 = 21.6549
+Total Loss for Epoch 701 = 21.6498
+Total Loss for Epoch 702 = 21.6454
+Total Loss for Epoch 703 = 21.6416
+Total Loss for Epoch 704 = 21.6384
+Total Loss for Epoch 705 = 21.6356
+Total Loss for Epoch 706 = 21.6331
+Total Loss for Epoch 707 = 21.6309
+Total Loss for Epoch 708 = 21.6288
+Total Loss for Epoch 709 = 21.6268
+Total Loss for Epoch 710 = 21.6249
+Total Loss for Epoch 711 = 21.6231
+Total Loss for Epoch 712 = 21.6212
+Total Loss for Epoch 713 = 21.6194
+Total Loss for Epoch 714 = 21.6177
+Total Loss for Epoch 715 = 21.6159
+Total Loss for Epoch 716 = 21.6141
+Total Loss for Epoch 717 = 21.6123
+Total Loss for Epoch 718 = 21.6105
+Total Loss for Epoch 719 = 21.6087
+Total Loss for Epoch 720 = 21.6068
+Total Loss for Epoch 721 = 21.605
+Total Loss for Epoch 722 = 21.6031
+Total Loss for Epoch 723 = 21.6012
+Total Loss for Epoch 724 = 21.5993
+Total Loss for Epoch 725 = 21.5974
+Total Loss for Epoch 726 = 21.5954
+Total Loss for Epoch 727 = 21.5935
+Total Loss for Epoch 728 = 21.5915
+Total Loss for Epoch 729 = 21.5894
+Total Loss for Epoch 730 = 21.5874
+Total Loss for Epoch 731 = 21.5853
+Total Loss for Epoch 732 = 21.5831
+Total Loss for Epoch 733 = 21.581
+Total Loss for Epoch 734 = 21.5788
+Total Loss for Epoch 735 = 21.5765
+Total Loss for Epoch 736 = 21.5742
+Total Loss for Epoch 737 = 21.5719
+Total Loss for Epoch 738 = 21.5696
+Total Loss for Epoch 739 = 21.5671
+Total Loss for Epoch 740 = 21.5647
+Total Loss for Epoch 741 = 21.5622
+Total Loss for Epoch 742 = 21.5596
+Total Loss for Epoch 743 = 21.5569
+Total Loss for Epoch 744 = 21.5543
+Total Loss for Epoch 745 = 21.5515
+Total Loss for Epoch 746 = 21.5487
+Total Loss for Epoch 747 = 21.5458
+Total Loss for Epoch 748 = 21.5428
+Total Loss for Epoch 749 = 21.5398
+Total Loss for Epoch 750 = 21.5367
+Total Loss for Epoch 751 = 21.5335
+Total Loss for Epoch 752 = 21.5302
+Total Loss for Epoch 753 = 21.5268
+Total Loss for Epoch 754 = 21.5233
+Total Loss for Epoch 755 = 21.5197
+Total Loss for Epoch 756 = 21.516
+Total Loss for Epoch 757 = 21.5122
+Total Loss for Epoch 758 = 21.5083
+Total Loss for Epoch 759 = 21.5043
+Total Loss for Epoch 760 = 21.5001
+Total Loss for Epoch 761 = 21.4959
+Total Loss for Epoch 762 = 21.4915
+Total Loss for Epoch 763 = 21.487
+Total Loss for Epoch 764 = 21.4825
+Total Loss for Epoch 765 = 21.4779
+Total Loss for Epoch 766 = 21.4732
+Total Loss for Epoch 767 = 21.4687
+Total Loss for Epoch 768 = 21.4645
+Total Loss for Epoch 769 = 21.4609
+Total Loss for Epoch 770 = 21.4587
+Total Loss for Epoch 771 = 21.4587
+Total Loss for Epoch 772 = 21.4619
+Total Loss for Epoch 773 = 21.469
+Total Loss for Epoch 774 = 21.4796
+Total Loss for Epoch 775 = 21.492
+Total Loss for Epoch 776 = 21.5048
+Total Loss for Epoch 777 = 21.5169
+Total Loss for Epoch 778 = 21.5279
+Total Loss for Epoch 779 = 21.5377
+Total Loss for Epoch 780 = 21.5464
+Total Loss for Epoch 781 = 21.5541
+Total Loss for Epoch 782 = 21.561
+Total Loss for Epoch 783 = 21.5672
+Total Loss for Epoch 784 = 21.5727
+Total Loss for Epoch 785 = 21.5777
+Total Loss for Epoch 786 = 21.5822
+Total Loss for Epoch 787 = 21.5862
+Total Loss for Epoch 788 = 21.5898
+Total Loss for Epoch 789 = 21.5931
+Total Loss for Epoch 790 = 21.596
+Total Loss for Epoch 791 = 21.5986
+Total Loss for Epoch 792 = 21.6009
+Total Loss for Epoch 793 = 21.6029
+Total Loss for Epoch 794 = 21.6046
+Total Loss for Epoch 795 = 21.6061
+Total Loss for Epoch 796 = 21.6072
+Total Loss for Epoch 797 = 21.6081
+Total Loss for Epoch 798 = 21.6086
+Total Loss for Epoch 799 = 21.6087
+Total Loss for Epoch 800 = 21.6082
+Total Loss for Epoch 801 = 21.6067
+Total Loss for Epoch 802 = 21.6039
+Total Loss for Epoch 803 = 21.5985
+Total Loss for Epoch 804 = 21.5884
+Total Loss for Epoch 805 = 21.5684
+Total Loss for Epoch 806 = 21.5245
+Total Loss for Epoch 807 = 21.4119
+Total Loss for Epoch 808 = 21.0496
+Total Loss for Epoch 809 = 20.0941
+Total Loss for Epoch 810 = 22.0891
+Total Loss for Epoch 811 = 22.7031
+Total Loss for Epoch 812 = 66.2545
+Total Loss for Epoch 813 = 41.4466
+Total Loss for Epoch 814 = 30.814
+Total Loss for Epoch 815 = 28.7424
+Total Loss for Epoch 816 = 27.1093
+Total Loss for Epoch 817 = 29.8642
+Total Loss for Epoch 818 = 28.7787
+Total Loss for Epoch 819 = 39.4144
+Total Loss for Epoch 820 = 28.167
+Total Loss for Epoch 821 = 28.96
+Total Loss for Epoch 822 = 35.6589
+Total Loss for Epoch 823 = 30.0842
+Total Loss for Epoch 824 = 33.1884
+Total Loss for Epoch 825 = 30.9192
+Total Loss for Epoch 826 = 27.8746
+Total Loss for Epoch 827 = 43.6021
+Total Loss for Epoch 828 = 27.7131
+Total Loss for Epoch 829 = 28.5622
+Total Loss for Epoch 830 = 53.6087
+Total Loss for Epoch 831 = 32.8447
+Total Loss for Epoch 832 = 28.1381
+Total Loss for Epoch 833 = 31.0392
+Total Loss for Epoch 834 = 28.8278
+Total Loss for Epoch 835 = 49.2276
+Total Loss for Epoch 836 = 30.4301
+Total Loss for Epoch 837 = 33.6869
+Total Loss for Epoch 838 = 32.0097
+Total Loss for Epoch 839 = 53.3774
+Total Loss for Epoch 840 = 29.2629
+Total Loss for Epoch 841 = 34.2458
+Total Loss for Epoch 842 = 31.3006
+Total Loss for Epoch 843 = 32.7198
+Total Loss for Epoch 844 = 34.3732
+Total Loss for Epoch 845 = 25.8914
+Total Loss for Epoch 846 = 26.2964
+Total Loss for Epoch 847 = 26.0461
+Total Loss for Epoch 848 = 37.918
+Total Loss for Epoch 849 = 26.9952
+Total Loss for Epoch 850 = 25.4621
+Total Loss for Epoch 851 = 40.9908
+Total Loss for Epoch 852 = 39.7386
+Total Loss for Epoch 853 = 28.2312
+Total Loss for Epoch 854 = 27.5297
+Total Loss for Epoch 855 = 27.1671
+Total Loss for Epoch 856 = 38.3167
+Total Loss for Epoch 857 = 36.4064
+Total Loss for Epoch 858 = 31.026
+Total Loss for Epoch 859 = 27.9354
+Total Loss for Epoch 860 = 32.4331
+Total Loss for Epoch 861 = 37.6329
+Total Loss for Epoch 862 = 28.3116
+Total Loss for Epoch 863 = 28.5098
+Total Loss for Epoch 864 = 26.4876
+Total Loss for Epoch 865 = 50.632
+Total Loss for Epoch 866 = 60.6669
+Total Loss for Epoch 867 = 55.9839
+Total Loss for Epoch 868 = 54.8642
+Total Loss for Epoch 869 = 54.295
+Total Loss for Epoch 870 = 54.0417
+Total Loss for Epoch 871 = 53.9142
+Total Loss for Epoch 872 = 53.8087
+Total Loss for Epoch 873 = 53.7106
+Total Loss for Epoch 874 = 53.6778
+Total Loss for Epoch 875 = 53.6636
+Total Loss for Epoch 876 = 53.6557
+Total Loss for Epoch 877 = 53.6509
+Total Loss for Epoch 878 = 53.6478
+Total Loss for Epoch 879 = 53.6457
+Total Loss for Epoch 880 = 53.6442
+Total Loss for Epoch 881 = 53.6431
+Total Loss for Epoch 882 = 53.6423
+Total Loss for Epoch 883 = 53.6416
+Total Loss for Epoch 884 = 53.6411
+Total Loss for Epoch 885 = 53.6407
+Total Loss for Epoch 886 = 53.6403
+Total Loss for Epoch 887 = 53.64
+Total Loss for Epoch 888 = 53.6398
+Total Loss for Epoch 889 = 53.6395
+Total Loss for Epoch 890 = 53.6394
+Total Loss for Epoch 891 = 53.6392
+Total Loss for Epoch 892 = 53.639
+Total Loss for Epoch 893 = 53.6389
+Total Loss for Epoch 894 = 53.6388
+Total Loss for Epoch 895 = 53.6386
+Total Loss for Epoch 896 = 53.6385
+Total Loss for Epoch 897 = 53.6383
+Total Loss for Epoch 898 = 53.6381
+Total Loss for Epoch 899 = 53.6378
+Total Loss for Epoch 900 = 53.6375
+Total Loss for Epoch 901 = 53.6371
+Total Loss for Epoch 902 = 53.6366
+Total Loss for Epoch 903 = 53.636
+Total Loss for Epoch 904 = 53.6352
+Total Loss for Epoch 905 = 53.6342
+Total Loss for Epoch 906 = 53.6329
+Total Loss for Epoch 907 = 53.6312
+Total Loss for Epoch 908 = 53.6292
+Total Loss for Epoch 909 = 53.6266
+Total Loss for Epoch 910 = 53.6234
+Total Loss for Epoch 911 = 53.6192
+Total Loss for Epoch 912 = 53.6138
+Total Loss for Epoch 913 = 53.6064
+Total Loss for Epoch 914 = 53.5958
+Total Loss for Epoch 915 = 53.5758
+Total Loss for Epoch 916 = 53.5149
+Total Loss for Epoch 917 = 53.3909
+Total Loss for Epoch 918 = 53.2631
+Total Loss for Epoch 919 = 53.2695
+Total Loss for Epoch 920 = 53.2857
+Total Loss for Epoch 921 = 53.2954
+Total Loss for Epoch 922 = 53.3025
+Total Loss for Epoch 923 = 53.3079
+Total Loss for Epoch 924 = 53.3121
+Total Loss for Epoch 925 = 53.3155
+Total Loss for Epoch 926 = 53.3183
+Total Loss for Epoch 927 = 53.3206
+Total Loss for Epoch 928 = 53.3225
+Total Loss for Epoch 929 = 53.3241
+Total Loss for Epoch 930 = 53.3255
+Total Loss for Epoch 931 = 53.3267
+Total Loss for Epoch 932 = 53.3277
+Total Loss for Epoch 933 = 53.3286
+Total Loss for Epoch 934 = 53.3293
+Total Loss for Epoch 935 = 53.3299
+Total Loss for Epoch 936 = 53.3305
+Total Loss for Epoch 937 = 53.331
+Total Loss for Epoch 938 = 53.3314
+Total Loss for Epoch 939 = 53.3317
+Total Loss for Epoch 940 = 53.332
+Total Loss for Epoch 941 = 53.3322
+Total Loss for Epoch 942 = 53.3324
+Total Loss for Epoch 943 = 53.3326
+Total Loss for Epoch 944 = 53.3327
+Total Loss for Epoch 945 = 53.3327
+Total Loss for Epoch 946 = 53.3327
+Total Loss for Epoch 947 = 53.3327
+Total Loss for Epoch 948 = 53.3327
+Total Loss for Epoch 949 = 53.3326
+Total Loss for Epoch 950 = 53.3324
+Total Loss for Epoch 951 = 53.3323
+Total Loss for Epoch 952 = 53.3321
+Total Loss for Epoch 953 = 53.3318
+Total Loss for Epoch 954 = 53.3316
+Total Loss for Epoch 955 = 53.3312
+Total Loss for Epoch 956 = 53.3309
+Total Loss for Epoch 957 = 53.3305
+Total Loss for Epoch 958 = 53.3301
+Total Loss for Epoch 959 = 53.3296
+Total Loss for Epoch 960 = 53.3291
+Total Loss for Epoch 961 = 53.3285
+Total Loss for Epoch 962 = 53.3279
+Total Loss for Epoch 963 = 53.3272
+Total Loss for Epoch 964 = 53.3265
+Total Loss for Epoch 965 = 53.3257
+Total Loss for Epoch 966 = 53.3248
+Total Loss for Epoch 967 = 53.3239
+Total Loss for Epoch 968 = 53.3229
+Total Loss for Epoch 969 = 53.3218
+Total Loss for Epoch 970 = 53.3207
+Total Loss for Epoch 971 = 53.3195
+Total Loss for Epoch 972 = 53.3182
+Total Loss for Epoch 973 = 53.3168
+Total Loss for Epoch 974 = 53.3152
+Total Loss for Epoch 975 = 53.3136
+Total Loss for Epoch 976 = 53.3119
+Total Loss for Epoch 977 = 53.3101
+Total Loss for Epoch 978 = 53.3081
+Total Loss for Epoch 979 = 53.306
+Total Loss for Epoch 980 = 53.3038
+Total Loss for Epoch 981 = 53.3014
+Total Loss for Epoch 982 = 53.2988
+Total Loss for Epoch 983 = 53.296
+Total Loss for Epoch 984 = 53.2931
+Total Loss for Epoch 985 = 53.2899
+Total Loss for Epoch 986 = 53.2866
+Total Loss for Epoch 987 = 53.2829
+Total Loss for Epoch 988 = 53.279
+Total Loss for Epoch 989 = 53.2747
+Total Loss for Epoch 990 = 53.2701
+Total Loss for Epoch 991 = 53.2651
+Total Loss for Epoch 992 = 53.2597
+Total Loss for Epoch 993 = 53.2537
+Total Loss for Epoch 994 = 53.247
+Total Loss for Epoch 995 = 53.2396
+Total Loss for Epoch 996 = 53.2311
+Total Loss for Epoch 997 = 53.2213
+Total Loss for Epoch 998 = 53.2096
+Total Loss for Epoch 999 = 53.1951
+Total Loss for Epoch 1000 = 53.1757
+0.880647 0.0167881 0.102565 
+Predicted Class = 0	Actual Class = 0
+4.58929e-05 1.32672e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+2.73364e-06 0.999947 5.07134e-05 
+Predicted Class = 1	Actual Class = 1
+4.58721e-05 1.32826e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+4.54895e-05 1.34491e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+2.73394e-06 0.999947 5.07191e-05 
+Predicted Class = 1	Actual Class = 1
+4.59297e-05 1.32588e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+0.880583 0.0168119 0.102605 
+Predicted Class = 0	Actual Class = 0
+4.59157e-05 1.32649e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+2.738e-06 0.999946 5.07801e-05 
+Predicted Class = 1	Actual Class = 1
+2.73766e-06 0.999946 5.07738e-05 
+Predicted Class = 1	Actual Class = 1
+0.880647 0.016788 0.102565 
+Predicted Class = 0	Actual Class = 0
+0.878491 0.0176564 0.103853 
+Predicted Class = 0	Actual Class = 0
+4.80932e-05 1.17694e-05 0.99994 
+Predicted Class = 2	Actual Class = 2
+0.880647 0.016788 0.102565 
+Predicted Class = 0	Actual Class = 0
+2.73363e-06 0.999947 5.07131e-05 
+Predicted Class = 1	Actual Class = 1
+2.73363e-06 0.999947 5.07133e-05 
+Predicted Class = 1	Actual Class = 1
+0.816335 0.0487009 0.134964 
+Predicted Class = 0	Actual Class = 2
+0.880646 0.0167882 0.102565 
+Predicted Class = 0	Actual Class = 0
+4.59343e-05 1.32031e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+2.73431e-06 0.999947 5.07241e-05 
+Predicted Class = 1	Actual Class = 1
+0.877325 0.0180763 0.104598 
+Predicted Class = 0	Actual Class = 0
+0.880608 0.0168026 0.102589 
+Predicted Class = 0	Actual Class = 0
+0.34734 4.08431e-06 0.652656 
+Predicted Class = 2	Actual Class = 2
+0.880647 0.016788 0.102565 
+Predicted Class = 0	Actual Class = 0
+2.7337e-06 0.999947 5.07144e-05 
+Predicted Class = 1	Actual Class = 1
+0.880647 0.0167881 0.102565 
+Predicted Class = 0	Actual Class = 0
+4.5897e-05 1.32722e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+4.59311e-05 1.32518e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+4.59252e-05 1.32608e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+2.7337e-06 0.999947 5.07145e-05 
+Predicted Class = 1	Actual Class = 1
+2.22185e-05 3.1164e-05 0.999947 
+Predicted Class = 2	Actual Class = 2
+2.73573e-06 0.999947 5.07449e-05 
+Predicted Class = 1	Actual Class = 1
+2.73427e-06 0.999947 5.07254e-05 
+Predicted Class = 1	Actual Class = 1
+4.59295e-05 1.32591e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+0.880647 0.016788 0.102565 
+Predicted Class = 0	Actual Class = 0
+6.7125e-05 5.41734e-06 0.999927 
+Predicted Class = 2	Actual Class = 2
+0.880646 0.0167884 0.102566 
+Predicted Class = 0	Actual Class = 0
+0.88005 0.017014 0.102936 
+Predicted Class = 0	Actual Class = 1
+0.880646 0.0167883 0.102566 
+Predicted Class = 0	Actual Class = 0
+2.73363e-06 0.999947 5.07133e-05 
+Predicted Class = 1	Actual Class = 1
+2.73365e-06 0.999947 5.07135e-05 
+Predicted Class = 1	Actual Class = 1
+0.880647 0.0167881 0.102565 
+Predicted Class = 0	Actual Class = 0
+4.59297e-05 1.32588e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+7.24367e-05 4.55561e-06 0.999923 
+Predicted Class = 2	Actual Class = 2
+0.877017 0.0182009 0.104782 
+Predicted Class = 0	Actual Class = 2
+4.59297e-05 1.32587e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+2.73334e-06 0.999947 5.07081e-05 
+Predicted Class = 1	Actual Class = 1
+2.74879e-06 0.999946 5.09377e-05 
+Predicted Class = 1	Actual Class = 0
+0.876189 0.0185199 0.105291 
+Predicted Class = 0	Actual Class = 1
+2.80246e-06 0.999946 5.16934e-05 
+Predicted Class = 1	Actual Class = 1
+2.73474e-06 0.999947 5.07345e-05 
+Predicted Class = 1	Actual Class = 1
+4.59222e-05 1.3265e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+0.880683 0.0167768 0.10254 
+Predicted Class = 0	Actual Class = 2
+4.58129e-05 1.33105e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+4.59755e-05 1.32034e-05 0.999941 
+Predicted Class = 2	Actual Class = 2
+2.73364e-06 0.999947 5.07134e-05 
+Predicted Class = 1	Actual Class = 1
+2.80854e-06 0.999945 5.17727e-05 
+Predicted Class = 1	Actual Class = 1
+0.880647 0.016788 0.102565 
+Predicted Class = 0	Actual Class = 0
+0.880645 0.0167888 0.102566 
+Predicted Class = 0	Actual Class = 0
+Accuracy = 90%
